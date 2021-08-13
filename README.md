@@ -1,7 +1,6 @@
 <h3>Hi there 👋</h3>
 
-
-![Kirill's GitHub stats](https://github-readme-stats.vercel.app/api?username=kirill-stepanov&show_icons=true&theme=radical)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kirill-stepanov&show_icons=true&locale=en" alt="kirill-stepanov" /></p>
 
 <p>My name is Kirill and I am a front-end engineer.</p>
 
