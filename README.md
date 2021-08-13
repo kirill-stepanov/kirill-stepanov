@@ -7,7 +7,7 @@
 <p>My favourite framework is React.</p>
 
 Here are the technologies I can apply to your next project:<br>
-🔧⠀React, Redux, Redux-Saga, Next<br>
+🔧⠀React, Redux, Next<br>
 🔧⠀JavaScript<br>
 
 Other technologies:<br>
