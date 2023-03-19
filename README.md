@@ -7,13 +7,13 @@
 <p>My favourite framework is React.</p>
 
 Here are the technologies I can apply to your next project:<br>
-🔧 JavaScript, Dart, TypeScript
-🔧 HTML5, CSS3, Bootstrap, SCSS / SASS / LESS
-🔧 React,js, Next.js, Flutter
-🔧 Redux, Provider, Bloc
-🔧 AntDesign, Material UI, Redux form, Styled components
-🔧 Swagger, Docker, Stripe
-🔧 Strapi
-🔧 Firebase, MongoDB
-🔧 Git, Jira, Photoshop, Adobe Illustrator, Figma, Invision
-🔧 WebStorm, VSCode
+🔧 JavaScript, Dart, TypeScript<br>
+🔧 HTML5, CSS3, Bootstrap, SCSS / SASS / LESS<br>
+🔧 React,js, Next.js, Flutter<br>
+🔧 Redux, Provider, Bloc<br>
+🔧 AntDesign, Material UI, Redux form, Styled components<br>
+🔧 Swagger, Docker, Stripe<br>
+🔧 Strapi<br>
+🔧 Firebase, MongoDB<br>
+🔧 Git, Jira, Photoshop, Adobe Illustrator, Figma, Invision<br>
+🔧 WebStorm, VSCode<br>
